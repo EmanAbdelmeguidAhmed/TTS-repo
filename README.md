@@ -1,2 +1,2 @@
 # TTS-repo
-a new repo for TTS work
+A new repo for TTS work.
